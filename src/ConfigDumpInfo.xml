@@ -6,9 +6,6 @@
 		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый" id="7f3e8a21-4c5d-4e8f-9b0a-1d2e3f4a5b6c" configVersion="3410ea2d3a9397d4dba42ad57abcb13cee34135c"/>
 		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый.Module" id="7f3e8a21-4c5d-4e8f-9b0a-1d2e3f4a5b6c.0" configVersion="9045ff65c4bd532e3f4f6dd6d27690e10edeffd1"/>
 		<Metadata name="Configuration.ГСК_СчетОферта" id="a33bbc41-1a62-481a-b78a-ad9321e3b5fc" configVersion="6f03fdc06911a443d0685f483cf9819d5eab2397"/>
-		<Metadata name="Constant.ГСК5664_ПоказыватьБрендинг" id="c4d8895c-3b24-420c-8cb8-bc86105db3b3" configVersion="2ec92a3929526fc246b6d3b7d7c028d4b997482c"/>
-		<Metadata name="Constant.ГСК5664_ПоказыватьБрендинг.ManagerModule" id="c4d8895c-3b24-420c-8cb8-bc86105db3b3.1" configVersion="576320b1cd1e106fb7df16f80701a7b3951d2423"/>
-		<Metadata name="Constant.ГСК5664_ПоказыватьБрендинг.ValueManagerModule" id="c4d8895c-3b24-420c-8cb8-bc86105db3b3.0" configVersion="74cc002171a8302805b2e438258e31b376b2931b"/>
 		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba" configVersion="84c31b737bf1ec109f783ff01dbe1b44078c181a"/>
 		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта.ManagerModule" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba.2" configVersion="0c11066415db22560fe2720a846c6b9d283e1513"/>
 		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта.ObjectModule" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba.0" configVersion="74cc002171a8302805b2e438258e31b376b2931b"/>
