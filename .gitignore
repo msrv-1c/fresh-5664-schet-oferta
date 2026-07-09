@@ -1,0 +1,17 @@
+*.cfe
+*.cf
+*.dt
+*.1cd
+*.log
+*.lgp
+*.lgf
+*.lck
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+_meta.json
+_meta-constant.json
+_meta-dp.json

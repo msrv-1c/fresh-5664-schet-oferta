@@ -1,0 +1,106 @@
+{
+  "schema": "codex-1c-print-form-mxl/v1",
+  "generated_by": "layout.generate_mxl_external_print_form",
+  "processor_name": "ГСК5664_ПечатьСчетОферта",
+  "synonym": "Счет-оферта (Конвейер 1С)",
+  "appointment": "Документ.СчетНаОплатуПокупателю",
+  "layout_name": "ПФ_MXL_СчетОферта",
+  "columns": [
+    {
+      "name": "Артикул",
+      "title": "Артикул",
+      "source": "СтрокаДокумента.Номенклатура.Артикул"
+    },
+    {
+      "name": "Товар",
+      "title": "Товары (работы, услуги)",
+      "source": "СтрокаДокумента.Номенклатура"
+    },
+    {
+      "name": "Количество",
+      "title": "Кол-во",
+      "source": "СтрокаДокумента.Количество"
+    },
+    {
+      "name": "ЕдиницаИзмерения",
+      "title": "Ед.",
+      "source": "СтрокаДокумента.ЕдиницаИзмерения"
+    },
+    {
+      "name": "Цена",
+      "title": "Цена",
+      "source": "СтрокаДокумента.Цена"
+    },
+    {
+      "name": "Сумма",
+      "title": "Сумма",
+      "source": "СтрокаДокумента.Сумма"
+    }
+  ],
+  "areas": [
+    "Шапка",
+    "ШапкаТаблицы",
+    "Строка",
+    "Итого"
+  ],
+  "template_path": "Documents/СчетНаОплатуПокупателю/Templates/ПФ_MXL_СчетОферта/Ext/Template.xml",
+  "template_sha256": "a913a7e5fec3884d9848e419c1e078956a9e513f911a8a5ec5acb305809ed9c2",
+  "layout_contract": {
+    "layout_name_default": "ПФ_MXL_Макет",
+    "areas": [
+      "Шапка",
+      "ШапкаТаблицы",
+      "Строка",
+      "Итого"
+    ],
+    "header_area": "Шапка",
+    "table_header_area": "ШапкаТаблицы",
+    "row_area": "Строка",
+    "total_area": "Итого",
+    "row_number_parameter": "НомерСтроки",
+    "sum_parameter": "Сумма",
+    "total_parameter": "Сумма",
+    "compatible_total_parameters": [
+      "Сумма"
+    ],
+    "notes": [
+      "The generated ObjectModule fills the numeric total in bordered table area Итого.",
+      "Do not switch the total output to area ИтогоКОплате; HTML export may render it outside the bordered table.",
+      "If table columns change, regenerate via layout.generate_mxl_external_print_form instead of editing Template.xml by hand."
+    ],
+    "layout_name": "ПФ_MXL_СчетОферта",
+    "columns": [
+      {
+        "name": "Артикул",
+        "title": "Артикул",
+        "source": "СтрокаДокумента.Номенклатура.Артикул"
+      },
+      {
+        "name": "Товар",
+        "title": "Товары (работы, услуги)",
+        "source": "СтрокаДокумента.Номенклатура"
+      },
+      {
+        "name": "Количество",
+        "title": "Кол-во",
+        "source": "СтрокаДокумента.Количество"
+      },
+      {
+        "name": "ЕдиницаИзмерения",
+        "title": "Ед.",
+        "source": "СтрокаДокумента.ЕдиницаИзмерения"
+      },
+      {
+        "name": "Цена",
+        "title": "Цена",
+        "source": "СтрокаДокумента.Цена"
+      },
+      {
+        "name": "Сумма",
+        "title": "Сумма",
+        "source": "СтрокаДокумента.Сумма"
+      }
+    ],
+    "has_total": true
+  }
+}
