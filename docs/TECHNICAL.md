@@ -4,7 +4,7 @@
 
 ## Проверка Через Bridge
 
-Печатная форма проверена в демо-базе `fresh-bp-demo` через `CodexTestBridge` 9 июля 2026 года.
+Печатная форма проверена в демо-базе через `CodexTestBridge` 9 июля 2026 года.
 
 Тестовый документ:
 
@@ -37,11 +37,11 @@
 Акцепт оферты - полная оплата по реквизитам ...
 ```
 
-Команда проверки доступности bridge:
+Пример команды проверки доступности bridge:
 
 ```powershell
-python C:\Users\Манжела Александр\.codex\skills\codex-test-bridge\client.py `
-  --base-url http://192.168.2.127/fresh-bp-demo/hs/codex-test health
+python <path-to-codex-test-bridge>\client.py `
+  --base-url http://<host>/<publication>/hs/codex-test health
 ```
 
 Основной рендер выполнялся серверным вызовом:
@@ -114,14 +114,14 @@ docs/
 
 ## Сборка И Загрузка
 
-Параметры локальной проверки лежат в `.v8-project.json`:
+Для локальной проверки можно использовать `.v8-project.json`, заполнив его путями своей рабочей машины:
 
 ```json
 {
-  "v8path": "C:\\Program Files\\1cv8\\8.3.27.1859\\bin",
+  "v8path": "C:\\Program Files\\1cv8\\<version>\\bin",
   "extensionSrc": "src",
-  "configSrc": "d:\\bsl\\1cfresh\\config\\bp-xml",
-  "infobase": "d:\\bsl\\1cfresh\\bases\\bp-demo-30198",
+  "configSrc": "<path-to-base-configuration-xml>",
+  "infobase": "<path-to-test-infobase>",
   "infobaseUser": "Admin"
 }
 ```
