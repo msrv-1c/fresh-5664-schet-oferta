@@ -9,6 +9,7 @@
 *.lgf
 *.lck
 *.tmp
+tmp_*.png
 *.bak
 .runtime/
 .DS_Store
