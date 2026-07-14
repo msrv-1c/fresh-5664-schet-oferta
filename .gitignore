@@ -1,4 +1,6 @@
 *.cfe
+!dist/
+!dist/*.cfe
 *.cf
 *.dt
 *.1cd
@@ -8,6 +10,7 @@
 *.lck
 *.tmp
 *.bak
+.runtime/
 .DS_Store
 Thumbs.db
 .vscode/
