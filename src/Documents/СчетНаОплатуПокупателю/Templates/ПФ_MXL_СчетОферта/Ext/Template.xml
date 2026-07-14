@@ -2070,13 +2070,7 @@
 				<i>6</i>
 				<c>
 					<f>83</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ФИОРуководителя</v8:content>
-						</v8:item>
-					</tl>
-					<detailParameter>Руководитель</detailParameter>
+					<parameter>ФИОРуководителя</parameter>
 				</c>
 			</c>
 			<c>

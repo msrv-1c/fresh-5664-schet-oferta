@@ -2,7 +2,7 @@
   "schema": "codex-1c-print-form-mxl/v1",
   "generated_by": "layout.generate_mxl_external_print_form",
   "processor_name": "ГСК5664_ПечатьСчетОферта",
-  "synonym": "Счет-оферта (Конвейер 1С)",
+  "synonym": "Счет-оферта",
   "appointment": "Документ.СчетНаОплатуПокупателю",
   "layout_name": "ПФ_MXL_СчетОферта",
   "columns": [

@@ -24,8 +24,18 @@
 			<DefaultForm/>
 			<AuxiliaryForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
-			<ExtendedPresentation/>
-			<Explanation/>
+			<ExtendedPresentation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Печать счет-оферта</v8:content>
+				</v8:item>
+			</ExtendedPresentation>
+			<Explanation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сделано на Конвейере 1С: https://gitsell.ru/1c</v8:content>
+				</v8:item>
+			</Explanation>
 		</Properties>
 		<ChildObjects/>
 	</DataProcessor>

@@ -2,16 +2,18 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
 	<ConfigVersions>
 		<Metadata name="CommonModule.ГСК5664_ОбщегоНазначения" id="6680cdca-7071-480c-a65c-0f6f888dd978" configVersion="145bd844147442cf7757af1e2171964f83a6d69c"/>
-		<Metadata name="CommonModule.ГСК5664_ОбщегоНазначения.Module" id="6680cdca-7071-480c-a65c-0f6f888dd978.0" configVersion="afbedf08de5827bf65cf567d06c21a2639cb1175"/>
+		<Metadata name="CommonModule.ГСК5664_ОбщегоНазначения.Module" id="6680cdca-7071-480c-a65c-0f6f888dd978.0" configVersion="94a8bdf8513ae9c951b0fda98cde550fa8bbd0ce"/>
+		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый" id="2c61a3b4-1c7e-4d5c-8f9a-5664cfe00001" configVersion="a328f91d98dc27e1f6a093a751cc43ecd19e8bf3"/>
+		<Metadata name="CommonModule.УправлениеПечатьюКлиентПереопределяемый.Module" id="2c61a3b4-1c7e-4d5c-8f9a-5664cfe00001.0" configVersion="ad16d1209cb93a517ab40fb587831b5b25dd26de"/>
 		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый" id="7f3e8a21-4c5d-4e8f-9b0a-1d2e3f4a5b6c" configVersion="3410ea2d3a9397d4dba42ad57abcb13cee34135c"/>
-		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый.Module" id="7f3e8a21-4c5d-4e8f-9b0a-1d2e3f4a5b6c.0" configVersion="9045ff65c4bd532e3f4f6dd6d27690e10edeffd1"/>
-		<Metadata name="Configuration.ГСК_СчетОферта" id="a33bbc41-1a62-481a-b78a-ad9321e3b5fc" configVersion="6f03fdc06911a443d0685f483cf9819d5eab2397"/>
-		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba" configVersion="84c31b737bf1ec109f783ff01dbe1b44078c181a"/>
-		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта.ManagerModule" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba.2" configVersion="0c11066415db22560fe2720a846c6b9d283e1513"/>
-		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта.ObjectModule" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba.0" configVersion="74cc002171a8302805b2e438258e31b376b2931b"/>
+		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый.Module" id="7f3e8a21-4c5d-4e8f-9b0a-1d2e3f4a5b6c.0" configVersion="9a2f0e2f628a8a36232741ef6faf8690e4bc41ec"/>
+		<Metadata name="Configuration.ГСК_СчетОферта" id="a33bbc41-1a62-481a-b78a-ad9321e3b5fc" configVersion="435ee5ddae808dac39592e49eb47934929702718"/>
+		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba" configVersion="aa0e7e59df17312dd9d85b4e6195be3279855223"/>
+		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта.ManagerModule" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba.2" configVersion="7bf91143f3f0f75b98557c85146e71aec69875de"/>
+		<Metadata name="DataProcessor.ГСК5664_ПечатьСчетОферта.ObjectModule" id="f7bd1f39-8bff-4a82-856e-b8bf3f9857ba.0" configVersion="679124a487d4f391e5a54e65426f34cb42963369"/>
 		<Metadata name="Document.СчетНаОплатуПокупателю" id="b5664d0c-0000-4000-8000-000000566401" configVersion="8a3da61725fd7de96f2ede7c7028ed492418c2c6"/>
 		<Metadata name="Document.СчетНаОплатуПокупателю.Template.ПФ_MXL_СчетОферта" id="a8c4e1f2-3b5d-4a9e-8f01-00005664cf1a" configVersion="397ec6862701ab80f30198c6980ecf2e685fe8d7"/>
-		<Metadata name="Document.СчетНаОплатуПокупателю.Template.ПФ_MXL_СчетОферта.Template" id="a8c4e1f2-3b5d-4a9e-8f01-00005664cf1a.0" configVersion="75e5b72a4b91deac0ff2d976d0a1ea0cd6543c6b"/>
+		<Metadata name="Document.СчетНаОплатуПокупателю.Template.ПФ_MXL_СчетОферта.Template" id="a8c4e1f2-3b5d-4a9e-8f01-00005664cf1a.0" configVersion="d3b71f5c09b188b42853867b57f8f99cd157a975"/>
 		<Metadata name="Language.Русский" id="7db124b2-e252-41c9-89e2-451b09733a6d" configVersion="78ddd3410c73e62cfce2dd24296a8c7beded2e7c"/>
 		<Metadata name="Role.ГСК5664_ОсновнаяРоль" id="decc0a1b-ba23-400e-8874-d38f964a2c73" configVersion="1efe878b6cf8bcb0b61631ae3ecef077c8e7e108"/>
 	</ConfigVersions>
