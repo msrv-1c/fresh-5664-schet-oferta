@@ -1,11 +1,8 @@
 # Скриншоты
 
-Снимки веб-клиента демо-базы (функционал расширения).
+Скриншоты показывают работу расширения в веб-клиенте 1С.
 
-**Обновить:**
-
-Съёмка во **встроенном браузере Cursor** (вкладка Browser): см. [docs/IDE-BROWSER-SCREENSHOTS.md](../../../docs/IDE-BROWSER-SCREENSHOTS.md).
-
-После съёмки: `powershell -NoProfile -File scripts\copy-ide-screenshots.ps1`
-
-Сделано на [Конвейере 1С](https://gitsell.ru/1c).
+- `01-list-schet.png` — список счетов покупателям.
+- `02-document.png` — форма счета покупателю.
+- `03-print-menu.png` — меню печати с командой "Счет-оферта".
+- `04-print-form.png` — печатная форма счета-оферты.

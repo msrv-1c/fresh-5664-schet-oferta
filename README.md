@@ -57,6 +57,13 @@
 - [Excel](docs/examples/schet-oferta.xlsx)
 - [PNG-превью](docs/examples/schet-oferta.png)
 
+## Скриншоты Проверки В 1С
+
+- [Список счетов покупателям](docs/screenshots/01-list-schet.png)
+- [Форма счета покупателю](docs/screenshots/02-document.png)
+- [Меню печати со счетом-офертой](docs/screenshots/03-print-menu.png)
+- [Печатная форма счета-оферты](docs/screenshots/04-print-form.png)
+
 ## Проверка
 
 Печатная форма проверена через тестовый HTTP bridge в демо-базе.
